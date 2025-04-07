@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InputView Test application</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password must be at least 8 symbols long, contain at least one capital letter, one number and at least one special symbol: ?=#/%</string>
+    <string name="user_error">User name is invalid</string>
+</resources>
